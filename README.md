@@ -50,15 +50,16 @@ First, use dnspy to load the **DLL** used by all programsÿThen check the sourc
 
 
 
-![image-20200610110025160](D:\git\qimingxing\README.assets\image-20200610110025160.png)
+![avatar](https://github.com/Any3ite/qimingxing-Sqli/blob/master/image-20200610110025160.png)
 
 
 
-The **activeid**inside the red box is not filtered. Construct a URL to test![image-20200610110157480](D:\git\qimingxing\README.assets\image-20200610110157480.png)
+The **activeid**inside the red box is not filtered. Construct a URL to test
+![avatar](https://github.com/Any3ite/qimingxing-Sqli/blob/master/image-20200610110157480.png)
 
 
 
-![image-20200610110204447](D:\git\qimingxing\README.assets\image-20200610110204447.png)
+![avatar](https://github.com/Any3ite/qimingxing-Sqli/blob/master/image-20200610110204447.png)
 
 
 
@@ -66,7 +67,7 @@ Error reported successfully, **incomplete single quotation mark**
 
 
 
-![image-20200610110243986](D:\git\qimingxing\README.assets\image-20200610110243986.png)
+![avatar](https://github.com/Any3ite/qimingxing-Sqli/blob/master/image-20200610110243986.png)
 
 
 
